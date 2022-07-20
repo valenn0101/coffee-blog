@@ -9,4 +9,4 @@ Este trabajo es un blog de Café, realizado en HTML y CSS con diseño responsive
 
 
 ## Ver ejemplo
-- [https://valenn0101.github.io/mi-portfolio/](https://valenn0101.github.io/mi-portfolio/)
+- [ https://valenn0101.github.io/coffee-blog/]( https://valenn0101.github.io/coffee-blog/)
